@@ -1,5 +1,5 @@
 ### 기록하는 것과 아이디어 나누는 걸 좋아합니다 🌟
-<img src="https://img.shields.io/badge/HTML-FF5733?style=flat-square&logo=HTML&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 
