@@ -8,7 +8,9 @@
 <br/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> 
   </div>
+<div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hana-Korea&layout=compact)
+</div>
 </div>
 #### Hyewon's log
 기록하는 곳입니다.
