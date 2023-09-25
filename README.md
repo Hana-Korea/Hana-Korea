@@ -5,8 +5,11 @@
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hana-Korea&layout=compact)
 
 #### Hyewon's log
+기록하는 곳입니다.
+<a href="https://velog.io/@hyeriish/series">https://velog.io/@hyeriish/series</a>
 - - -
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hana-Korea&layout=compact)
