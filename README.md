@@ -3,5 +3,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hana-Korea&layout=compact)
 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hana-Korea&show_icons=true&theme=radical)
